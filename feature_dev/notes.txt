@@ -1,0 +1,13 @@
+Feature Development TODOs
+
+STARTERS
+1. Use boxscore file. Find usual starters by looking at total starts per each player.
+2. For game we are predicting, see if we blank boxscores gives us starters?
+    ^ I doubt it because we won't know who's starting until game start?
+3. May need to use manual inputs of names and/or # starters to:
+    3a. Input number key players missing
+    3b. Get correct starters season averages
+    3c. Other starter info
+
+
+Point Differentials
